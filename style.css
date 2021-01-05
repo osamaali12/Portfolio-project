@@ -1,0 +1,15 @@
+.sec-one a {
+    color: #000000 !important;
+    text-decoration: none !important;
+    text-align: justify !important;
+}
+.sec-one {
+    /* text-align: justify; */
+    margin: 0px auto !important;
+    display: table !important;
+}
+
+h1 {
+    text-align: center;
+    padding: 36px 0px 0px 0px !important;
+}
